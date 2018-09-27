@@ -4,5 +4,6 @@ def main():
     print('Hello class, My Name is Nathan Olsen!')
     print('Hello class, My Name is Grant Anderson!')
     print('Hello class, My Name is Bryann Whitehead!')
+    print('Hello class, My name is Xiaoyu Han!')
 main()
 
