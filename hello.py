@@ -3,6 +3,7 @@ def main():
     print('Hello class, My Name is Brett Wheeler!')
     print('Hello class, My Name is Nathan Olsen!')
     print('Hello class, My Name is Grant Anderson!')
+    print('Hello class, My Name is Aatish!')
     print('Hello class, My Name is Kimber Poor-Harmon!')
     print('Hello class, My Name is Courtland Chase!')
   	print('Hello class, My Name is Kailee Stenseng!')
